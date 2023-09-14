@@ -81,7 +81,7 @@ I'm Mohamed Nazeh, I'm an a third-grade student in the Faculty of Computing and 
   </p>
 
 ---
-
+<!--
 **Github Stats:**
 
 <p align="center">
@@ -92,7 +92,7 @@ I'm Mohamed Nazeh, I'm an a third-grade student in the Faculty of Computing and 
 </p>
 
 ---
-
+--->
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
