@@ -96,7 +96,7 @@ I'm Mohamed Nazeh, I'm an a third-grade student in the Faculty of Computing and 
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
-   [![Website Badge](https://img.shields.io/badge/-anushkaverma.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://verma-anushka.github.io/anushkaverma/) 
+   [![Website Badge](https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-nazeh-898687238/) 
    [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/anushkaverma/) 
    [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786)](https://medium.com/@v.anushka786) 
    [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
