@@ -39,7 +39,7 @@ I'm Mohamed Nazeh, I'm an a third-grade student in the Faculty of Computing and 
   -->
   <code><img height="40" src="https://th.bing.com/th/id/R.ad0d880c099429b960c255849d753792?rik=VcTCCZa%2fynYGtQ&pid=ImgRaw&r=0"></code>
   <code><img height="40" src="https://th.bing.com/th/id/R.0183637498f8c05cfcd3bd0f41587584?rik=UJ%2fP7XhupRSlmA&pid=ImgRaw&r=0"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
+  <code><img height="40" src="  https://codeprogramming.org/wp-content/uploads/2022/01/C-Logo.wine_.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> 
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
@@ -49,6 +49,10 @@ I'm Mohamed Nazeh, I'm an a third-grade student in the Faculty of Computing and 
   <code><img height="40" src="https://www.tensorflow.org/images/tf_logo_transp.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
+  <!--
+  C++
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
+  -->
   <!--
   java
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> 
