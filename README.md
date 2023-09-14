@@ -1,6 +1,6 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an experienced full stack web developer and technical writer a demonstrated history of working in the information technology and services industry.
+I'm Mohamed Nazeh, I'm an a third-grade student in the Faculty of Computing and Artificial Intelligence at MTI University. I'm passionate about mobile application development and have two years of experience with Flutter.
 
 ---
 
