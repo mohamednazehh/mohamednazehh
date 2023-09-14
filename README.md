@@ -80,7 +80,6 @@ I'm Mohamed Nazeh, I'm an a third-grade student in the Faculty of Computing and 
 </div>
 
 
-![image](https://user-images.githubusercontent.com/104228032/207697769-d3860b12-7c43-4241-b7e8-0ece9fcc1369.png)
 
 
 <!---
