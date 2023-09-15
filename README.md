@@ -31,9 +31,54 @@ I'm an a third-grade student in the Faculty of Computing and Artificial Intellig
 **Languages and Tools:**
 
 <p align="center">
-
-  <div align="center">
-
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img
+            src="https://bekey.io/static/images/flutter/flutter-logo.png" alt="Flutter" width="40" height="40" /> </a>
+    <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img
+            src="https://cdn-images-1.medium.com/v2/resize:fit:1200/format:png/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="Dart"
+            width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
+            src="https://silicophilic.com/wp-content/uploads/2020/02/Cplus-Plus.png" alt="C++" width="40" height="40" />
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+            width="40" height="40" /> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+            alt="HTML" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+            alt="CSS" width="40" height="40" /> </a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+            alt="opencv" width="40" height="40" /> </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" alt="php" width="40"
+            height="40" /> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql" width="40" height="40" /> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="php" width="40" height="40" /> </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
+            height="40" /> </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+            alt="pandas" width="40" height="40" /> </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"
+            height="40" /></a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
+            width="40" height="40" /> </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img
+            src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
+</p>
+<!--<p align="center"><div align="center"> -->
+<!--
   <code><img height="40" src="https://bekey.io/static/images/flutter/flutter-logo.png"></code>
   <code><img height="40" src="https://cdn-images-1.medium.com/v2/resize:fit:1200/format:png/1*knHF_qpxdtS8h0Z8EeqowA.png"></code>
   <code><img height="40" src="https://silicophilic.com/wp-content/uploads/2020/02/Cplus-Plus.png"></code>
@@ -46,6 +91,7 @@ I'm an a third-grade student in the Faculty of Computing and Artificial Intellig
   <code><img height="40" src="https://www.tensorflow.org/images/tf_logo_transp.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
+  -->
   <!--
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> 
   Flutter
