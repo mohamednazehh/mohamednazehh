@@ -149,6 +149,7 @@ I'm an a third-grade student in the Faculty of Computing and Artificial Intellig
   <i>Let's connect and chat! Find me on the web...</i>
 
 <p align="center">
+<a href="mailto:mohamednazeh808@gmail.com" target="blank"><img align="center" src="https://icteducation.norfolk.gov.uk/content/1468/images/Gmail-logo.png" alt="Mohamed NaZeh" height="30" width="40" /></a>
 <a href="https://wa.me/qr/ZNISRHB2ZU5JK1 " target="blank"><img align="center" src="https://th.bing.com/th/id/R.f75d94874d855a7fcfcc922d89ac5e80?rik=BbRY14gmgBjcYg&riu=http%3a%2f%2f3.bp.blogspot.com%2f-2fVvKtxqwB0%2fVUXkWMb--kI%2fAAAAAAAACI8%2fANNIWneBF2Y%2fs1600%2fWhatsapp-logo-vector.png&ehk=CyqhxJTPVeikxaYdFfujlxqssTg1QkO24SjYqW6K%2bsw%3d&risl=&pid=ImgRaw&r=0" alt="Mohamed NaZeh" height="30" width="40" /></a>
 <a href="https://twitter.com/m0hamednazeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohamed NaZeh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohamed-nazeh-898687238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed NaZeh" height="30" width="40" /></a>
