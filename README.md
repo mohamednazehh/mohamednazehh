@@ -97,8 +97,7 @@ I'm Mohamed Nazeh, I'm an a third-grade student in the Faculty of Computing and 
   <i>Let's connect and chat! Find me on the web...</i>
 
 <p align="center">
-<a href="mohamednazeh808@gmail.com" target="blank"><img align="center" src="https://logolook.net/wp-content/uploads/2021/06/Gmail-Logo.png
-" alt="Mohamed NaZeh" height="30" width="40" /></a>
+<a href="mohamednazeh808@gmail.com" target="blank"><img align="center" src="https://icteducation.norfolk.gov.uk/content/1468/images/Gmail-logo.png" alt="Mohamed NaZeh" height="30" width="40" /></a>
 <a href="https://twitter.com/m0hamednazeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohamed NaZeh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohamed-nazeh-898687238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed NaZeh" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100024945301456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed NaZeh" height="30" width="40" /></a>
