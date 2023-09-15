@@ -100,7 +100,7 @@ I'm Mohamed Nazeh, I'm an a third-grade student in the Faculty of Computing and 
 <a href="https://twitter.com/m0hamednazeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohamed NaZeh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohamed-nazeh-898687238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed NaZeh" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100024945301456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed NaZeh" height="30" width="40" /></a>
-<a href="https://www.instagram.com/m0hamed_nazeh/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Mohamed NaZeh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/m0hamed_nazeh/" target="blank"><img align="center" src="https://i.pinimg.com/originals/27/c9/7b/27c97bdd0092f7327eb185de9473c0a9.png" alt="Mohamed NaZeh" height="30" width="40" /></a>
 </p>
 <!--<h3 align="left">Connect with me:</h3> -->
   <!--
