@@ -185,7 +185,7 @@ I'm an a third-grade student in the Faculty of Computing and Artificial Intellig
 
 <div align="right">
   
-[![HitCount](http://hits.dwyl.com/verma-anushka/verma-anushka.svg)](http://hits.dwyl.com/verma-anushka/verma-anushka) ![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)]
+[![HitCount](http://hits.dwyl.com/verma-anushka/verma-anushka.svg)](http://hits.dwyl.com/verma-anushka/verma-anushka) ![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) ![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)
 
 </div>
 
