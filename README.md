@@ -97,10 +97,10 @@ I'm Mohamed Nazeh, I'm an a third-grade student in the Faculty of Computing and 
   <i>Let's connect and chat! Find me on the web...</i>
 
 <p align="center">
-<a href="https://twitter.com/m0hamednazeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamednazehh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omarelsherif010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarelsherif010" height="30" width="40" /></a>
-<a href="https://fb.com/omarelsherifpage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarelsherifpage" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCSbQpX2FwjmiG_3znl5UodA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omar elsherif" height="30" width="40" /></a>
+<a href="https://twitter.com/m0hamednazeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohamed NaZeh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-nazeh-898687238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed NaZeh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100024945301456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed NaZeh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/m0hamed_nazeh/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Mohamed NaZeh" height="30" width="40" /></a>
 </p>
 <!--<h3 align="left">Connect with me:</h3> -->
   <!--
