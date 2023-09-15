@@ -71,11 +71,17 @@ I'm an a third-grade student in the Faculty of Computing and Artificial Intellig
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"
             height="40" /></a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
+    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img
+            src="https://desarrollador-android.com/wp-content/uploads/2015/03/android_studio_logo-1024x1024.png" alt="scikit_learn"
             width="40" height="40" /> </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img
-            src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
+            src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png" alt="seaborn" width="40" height="40" /> </a>
+    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img
+            src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="seaborn" width="40" height="40" /> </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img
+            src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" alt="seaborn" width="40" height="40" /> </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img
+            src="https://blog.finxter.com/wp-content/uploads/2020/11/PyCharm_Logo-768x768.png" alt="seaborn" width="40" height="40" /> </a>
 </p>
 <!--<p align="center"><div align="center"> -->
 <!--
