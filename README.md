@@ -96,13 +96,13 @@ I'm Mohamed Nazeh, I'm an a third-grade student in the Faculty of Computing and 
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
 
-    <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/m0hamednazeh" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.2fU7Ry5blr7xbWnNMQquhAHaGr?pid=ImgDet&rs=1" alt="mohamednazehh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omarelsherif010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarelsherif010" height="30" width="40" /></a>
 <a href="https://fb.com/omarelsherifpage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarelsherifpage" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCSbQpX2FwjmiG_3znl5UodA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omar elsherif" height="30" width="40" /></a>
 </p>
+<!--<h3 align="left">Connect with me:</h3> -->
   <!--
    [![Website Badge](file:///D:/Courses/HTML%20&%20Css%20Al%20Zero/GitHub%20accounts/LinkedIn/mohamed.html)]
    [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/anushkaverma/) 
