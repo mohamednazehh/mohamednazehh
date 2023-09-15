@@ -55,7 +55,7 @@ I'm an a third-grade student in the Faculty of Computing and Artificial Intellig
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
             alt="opencv" width="40" height="40" /> </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" alt="php" width="40"
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" alt="php" width="30"
             height="40" /> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -77,7 +77,7 @@ I'm an a third-grade student in the Faculty of Computing and Artificial Intellig
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
             src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png" alt="seaborn" width="40" height="40" /> </a>
     <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img
-            src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="seaborn" width="40" height="40" /> </a>
+            src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="seaborn" width="60" height="40" /> </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img
             src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" alt="seaborn" width="40" height="40" /> </a>
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img
