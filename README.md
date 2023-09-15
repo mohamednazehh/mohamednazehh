@@ -97,7 +97,7 @@ I'm Mohamed Nazeh, I'm an a third-grade student in the Faculty of Computing and 
   <i>Let's connect and chat! Find me on the web...</i>
 
 <p align="center">
-<a href="https://twitter.com/m0hamednazeh" target="blank"><img align="center" src="[https://th.bing.com/th/id/OIP.2fU7Ry5blr7xbWnNMQquhAHaGr?pid=ImgDet&rs=1](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)" alt="mohamednazehh" height="30" width="40" /></a>
+<a href="https://twitter.com/m0hamednazeh" target="blank"><img align="center" src="[https://th.bing.com/th/id/OIP.2fU7Ry5blr7xbWnNMQquhAHaGr?pid=ImgDet&rs=1]https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamednazehh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omarelsherif010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarelsherif010" height="30" width="40" /></a>
 <a href="https://fb.com/omarelsherifpage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarelsherifpage" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCSbQpX2FwjmiG_3znl5UodA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omar elsherif" height="30" width="40" /></a>
