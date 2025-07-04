@@ -35,6 +35,13 @@ I'm an a third-grade student in the Faculty of Computing and Artificial Intellig
 **Languages and Tools:**
 
 <p align="center">
+    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity" width="35" height="40" />
+</a>
+
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="35" height="40" />
+</a>
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img
             src="https://bekey.io/static/images/flutter/flutter-logo.png" alt="Flutter" width="35" height="40" /> </a>
     <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img
