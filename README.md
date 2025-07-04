@@ -36,7 +36,7 @@ I'm an a third-grade student in the Faculty of Computing and Artificial Intellig
 
 <p align="center">
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
-  <img src="https://tse1.mm.bing.net/th/id/OIP.YGPqnjRHg2U0HjUoxkdGNwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Unity" width="35" height="40" />
+  <img src="https://tse2.mm.bing.net/th/id/OIP.Dk7XfZUM2qrMLfCEIxfk4QHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Unity" width="35" height="40" />
 </a>
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
