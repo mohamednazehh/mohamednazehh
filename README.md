@@ -39,7 +39,7 @@ I'm an a third-grade student in the Faculty of Computing and Artificial Intellig
 <p align="center">
     
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img
-            src="https://bekey.io/static/images/flutter/flutter-logo.png" alt="Flutter" width="35" height="40" /> </a>
+            src="https://logospng.org/wp-content/uploads/google-flutter-768x432.png" alt="Flutter" width="35" height="40" /> </a>
     <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img
             src="https://cdn-images-1.medium.com/v2/resize:fit:1200/format:png/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="Dart"
             width="40" height="40" /> </a>
