@@ -45,7 +45,7 @@ I'm an a third-grade student in the Faculty of Computing and Artificial Intellig
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="35" height="40" />
 </a>
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img
-            src="https://bekey.io/static/images/flutter/flutter-logo.png" alt="Flutter" width="35" height="40" /> </a>
+            src="[https://bekey.io/static/images/flutter/flutter-logo.png](https://logospng.org/wp-content/uploads/google-flutter-768x432.png)" alt="Flutter" width="35" height="40" /> </a>
     <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img
             src="https://cdn-images-1.medium.com/v2/resize:fit:1200/format:png/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="Dart"
             width="40" height="40" /> </a>
@@ -93,8 +93,8 @@ I'm an a third-grade student in the Faculty of Computing and Artificial Intellig
             src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="Visual Studio" width="60" height="40" /> </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img
             src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" alt="IntelIJ IDEA" width="40" height="40" /> </a>
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img
-            src="https://blog.finxter.com/wp-content/uploads/2020/11/PyCharm_Logo-768x768.png" alt="Pycharm" width="40" height="40" /> </a>
+    <!-- <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img
+            src="https://blog.finxter.com/wp-content/uploads/2020/11/PyCharm_Logo-768x768.png" alt="Pycharm" width="40" height="40" /> </a> -->
 </p>
 <!--<p align="center"><div align="center"> -->
 <!--
