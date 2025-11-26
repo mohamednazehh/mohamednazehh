@@ -41,7 +41,7 @@ I'm an a third-grade student in the Faculty of Computing and Artificial Intellig
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img
             src="[https://bekey.io/static/images/flutter/flutter-logo.png](https://logospng.org/wp-content/uploads/google-flutter-768x432.png)" alt="Flutter" width="35" height="40" /> </a>
     <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img
-            src="[https://cdn-images-1.medium.com/v2/resize:fit:1200/format:png/1*knHF_qpxdtS8h0Z8EeqowA.png](https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63018720eab248248ff88ee3_1bd86e15.png)" alt="Dart"
+            src="https://cdn-images-1.medium.com/v2/resize:fit:1200/format:png/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="Dart"
             width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
             src="https://silicophilic.com/wp-content/uploads/2020/02/Cplus-Plus.png" alt="C++" width="40" height="40" />
