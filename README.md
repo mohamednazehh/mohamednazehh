@@ -75,15 +75,15 @@ I'm an a third-grade student in the Faculty of Computing and Artificial Intellig
             alt="mysql" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /> </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
+    <!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
-            height="40" /> </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
+            height="40" /> </a> -->
+    <!-- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-            alt="pandas" width="40" height="40" /> </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+            alt="pandas" width="40" height="40" /> </a> -->
+    <!-- <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"
-            height="40" /></a>
+            height="40" /></a> -->
     <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img
             src="https://desarrollador-android.com/wp-content/uploads/2015/03/android_studio_logo-1024x1024.png" alt="Android Studio"
             width="40" height="40" /> </a>
